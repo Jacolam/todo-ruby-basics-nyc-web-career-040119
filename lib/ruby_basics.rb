@@ -10,7 +10,7 @@ def argue(arguement)
    phrase = "I'm right and you are wrong!"
 end
 
-def greeting(greeting = "Hello",name = "Ruby Programmer")
+def greeting(greeting ,name )
   puts "#{greeting}, #{name}"
 
 end
