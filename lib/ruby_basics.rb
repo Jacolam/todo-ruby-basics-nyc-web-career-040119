@@ -11,7 +11,7 @@ def argue(arguement)
 end
 
 def greeting(greeting = "Hello",name = "Ruby Programmer")
-  put "#{greeting}, #{name}"
+  puts "#{greeting}, #{name}"
 
 end
 
